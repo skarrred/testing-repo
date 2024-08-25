@@ -1,0 +1,11 @@
+1. what is git?
+2. what is a repository in git?
+3. what is the difference between git and github?
+4. what is the difference between git commit and git push?
+5. what is github?
+6. what is .git ignore?
+7. how do you clone a repository?
+8. how can you view your commit history?
+9. what is git fetch and git pull?
+
+
